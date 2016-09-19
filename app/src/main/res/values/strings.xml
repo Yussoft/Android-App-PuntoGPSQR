@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PuntoGPSQR</string>
+    <string name="intro_text">Bienvenido a PuntoGPSQR, pulsa el botón para escanear un código QR como
+    el que aparece en la imagen de ejemplo.
+    \n\nCuando la navegación haya terminado pulsa el botón volver de tu dispositivo para poder mostrar
+    el camino recorrido.</string>
+    <string name="qr_button">Escanear QR</string>
+</resources>
